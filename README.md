@@ -24,6 +24,6 @@ cocochip-classifier/
 3. Use KEY[0] to reset data, KEY[1] to start
 4. Toggle SW[7:0] to imitate 8-bit data from an ADC
 5. Press KEY[2] to imitate end of conversion of an ADC
-6. Repeat 5 & 6 to get data from Malakanin and Malatenga
+6. Repeat 4 & 5 to get data from Malakanin and Malatenga channels
 7. Read results on LEDR[2:0]
 8. LEDR[9:8] shows which channel is being sampled (0-Mala-Uhog, 01-Malakanin, 10-Malatenga)
