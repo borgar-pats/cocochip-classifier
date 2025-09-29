@@ -1,8 +1,3 @@
-# CocoChip Classifier - FPGA-Based Coconut Chip Quality Detector
-
-## 📋 Overview
-A Verilog implementation of a coconut chip quality classifier for FPGA that samples three frequency bands and classifies chips based on peak detection.
-
 ## 🏗️ Project Structure
 cocochip-classifier/
 ├── src/ # Source Verilog files
