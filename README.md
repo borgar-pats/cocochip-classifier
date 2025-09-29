@@ -21,9 +21,9 @@ cocochip-classifier/
 ## 🚀 Quick Start
 1. Open in Quartus Prime
 2. Compile and program to DE1-SoC board
-4. Use KEY[0] to reset data, KEY[1] to start
-5. Toggle SW[7:0] to imitate 8-bit data from an ADC
-6. Press KEY[2] to imitate end of conversion of an ADC
-7. Repeat 5 & 6 to get data from Malakanin and Malatenga
-8. Read results on LEDR[2:0]
-9. LEDR[9:8] shows which channel is being sampled (0-Mala-Uhog, 01-Malakanin, 10-Malatenga)
+3. Use KEY[0] to reset data, KEY[1] to start
+4. Toggle SW[7:0] to imitate 8-bit data from an ADC
+5. Press KEY[2] to imitate end of conversion of an ADC
+6. Repeat 5 & 6 to get data from Malakanin and Malatenga
+7. Read results on LEDR[2:0]
+8. LEDR[9:8] shows which channel is being sampled (0-Mala-Uhog, 01-Malakanin, 10-Malatenga)
