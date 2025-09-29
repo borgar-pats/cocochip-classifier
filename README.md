@@ -26,4 +26,4 @@ cocochip-classifier/
 5. Press KEY[2] to imitate end of conversion of an ADC
 6. Repeat 4 & 5 to get data from Malakanin and Malatenga channels
 7. Read results on LEDR[2:0]
-8. LEDR[9:8] shows which channel is being sampled (0-Mala-Uhog, 01-Malakanin, 10-Malatenga)
+8. LEDR[9:8] shows which channel is being sampled (00-Mala-Uhog, 01-Malakanin, 10-Malatenga)
